@@ -1,0 +1,4 @@
+[08-Feb-2024 01:25:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/tashawer/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/tashawer/public_html/config/cache.php on line 21
